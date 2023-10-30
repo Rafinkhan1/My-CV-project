@@ -1,0 +1,119 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color:#EEE;
+    font-family: 'Roboto', sans-serif;
+}
+.container{
+    max-width: 1000px;
+    background-color:#E4F9F5;
+    margin: 0 auto;
+    padding:20px;
+}
+header{
+
+}
+.profile{
+    float: left;
+    width:100px;
+    height: 120px;
+    border: 2px solid white;
+    border-radius: 50%;
+}
+.information{
+    float: left;
+    padding:30px
+}
+h1,h2,h3,h4,h5,h6{
+    color: #11999e;
+}
+.contact{
+    float:right;
+    padding: 30px;
+}
+.contact a{
+ text-decoration: none;
+}
+.contact a:hover{
+    text-decoration: underline;
+    color: red;
+   }
+   .clear{
+    clear: both;
+   }
+   hr{
+    border: 3px solid black;
+    margin: 20px;
+    border-bottom: none;
+   }
+   #personal-section{
+
+   }
+   .content{
+
+   }
+   .left-side{
+    width: 70%;
+    float: left;
+
+   }
+   .right-side{
+    width:30%;
+    float: left;
+   }
+.common-hr{
+    border: 1px solid black;
+    border-bottom: none;
+    margin:20px;
+    
+}
+.left-side1{
+    width:30%;
+    float: left;
+}
+.right-side2{
+    width:70%;
+    float: left;
+
+}
+.Education-left{
+    float: left;
+    width:55%;
+}
+Education-right{
+    float: right;
+    width: 35%;;
+}
+.footer-design{
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+
+}
+.footer-design a{
+    color: white;
+    text-decoration: none;
+    margin:20px;
+
+}
+.footer-design p{
+    color: white;
+    text-decoration: none;
+    margin-top:20px;
+    
+}
+.footer-design a:hover{
+    color:red;
+    font-style:italic;
+    text-decoration: underline;
+    
+    
+}
+.footer-design p:hover{
+    color: red;
+    font-style:italic;
+    text-decoration: underline;
+    
+}
